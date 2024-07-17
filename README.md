@@ -2,13 +2,13 @@
 
 **Company:** CODTECH IT SOLUTIONS
 
-**ID:** CT6PP427
+**ID:** CT6WDS427
 
 **Domain:** Python programming
 
 **Duration:** JUNE 15th,2024 - JULY 30th,2024
 
-**Mentor:**
+**Mentor:** NEELA SANTHOSH KUMAR
 
 **Overview of the project**
 
